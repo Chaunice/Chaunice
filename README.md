@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Chaunice Zhang
-- 👀 A sophomore majoring in English
+- 👀 A sophomore majoring in English (Linguistics)
 - ⌨ crazy about mechanical keyboard
