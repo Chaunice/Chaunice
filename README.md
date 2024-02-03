@@ -1,4 +1,4 @@
 # 👋 Hi, I’m Chaunice Zhang
-- 👀 A Senior student majoring in English (Linguistics)
+- 👀 A graduate student majoring in Corpus linguistics \ Quantitative Linguistics
 - ⌨ crazy about mechanical keyboard and all the novel things
-- 💻 a newbie in Python
+- 💻 a newbie in Python, R
