@@ -1,4 +1,8 @@
-# 👋 Hi, I’m Chaunice Zhang
-- 👀 A graduate student majoring in Corpus linguistics \ Quantitative Linguistics
-- ⌨ crazy about mechanical keyboard and all the novel things
-- 💻 a newbie in Python, R
+🎓 Graduate Researcher in Corpus Linguistics & Quantitative Methods
+⌨️ Mechanical Keyboard Aficionado | Novel Tech Explorer
+🐍 Python | 📊 R 
+
+🔭 Currently exploring: 
+- Quantitative text analysis
+- Language modeling
+- Data-driven linguistic research
