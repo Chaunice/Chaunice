@@ -1,6 +1,7 @@
-🎓 Graduate Researcher in Corpus Linguistics & Quantitative Methods
-⌨️ Mechanical Keyboard Aficionado | Novel Tech Explorer
-🐍 Python | 📊 R 
+# 👋 I'm Chaunice ZHANG
+- 🎓 Graduate Researcher in Corpus Linguistics & Quantitative Methods
+- ⌨️ Mechanical Keyboard Aficionado | Novel Tech Explorer
+- 🐍 Python | 📊 R 
 
 🔭 Currently exploring: 
 - Quantitative text analysis
