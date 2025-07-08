@@ -24,7 +24,7 @@ I'm a graduate student in **Corpus Linguistics** and **Quantitative Methods**, p
 
 | My GitHub Stats                                                                                                    | My Interests                                                                                                                                                                                                                                                                                                 |
 | ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Chaunice's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaunice&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) | <ul><li>Applied Linguistics</li><li>Novel Tech & Gadgets</li><li>Data Visualization</li><li>Open Source Software</li></ul> |
+| [![Chaunice's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaunice&show_icons=true&theme=gotham&rank_icon=percentile&show_owner=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats) | <ul><li>Applied Linguistics</li><li>Novel Tech & Gadgets</li><li>Data Visualization</li><li>Open Source Software</li></ul> |
 
 ---
 
