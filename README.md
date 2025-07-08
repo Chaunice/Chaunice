@@ -1,4 +1,4 @@
-# 👋 I'm Chaunice ZHANG
+# 👋 I'm Chaunice Zhang
 - 🎓 Graduate Student in Corpus Linguistics & Quantitative Methods
 - ⌨️ Mechanical Keyboard Aficionado | Novel Tech Explorer
 - 🐍 Python | 📊 R 
