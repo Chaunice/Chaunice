@@ -1,14 +1,13 @@
 # Hi there, I'm Chaunice Zhang 👋
 
-I'm a graduate student in **Corpus Linguistics** and **Quantitative Methods**, passionate about uncovering the stories hidden within text. I thrive on using computational tools to explore linguistic phenomena.
+I'm a graduate student in **Corpus Linguistics**, passionate about uncovering the stories hidden within text. I thrive on using computational tools to explore linguistic phenomena.
 
 ---
 
 ### 🚀 My Current Focus
 
 * Applying quantitative methods to analyze large-scale text corpora.
-* Exploring systems programming with Rust for performance-critical data processing.
-* Building data-driven tools and web visualisations to better understand language structure.
+* Building data-driven tools to better understand language structure.
 
 ---
 
@@ -24,7 +23,7 @@ I'm a graduate student in **Corpus Linguistics** and **Quantitative Methods**, p
 
 | My GitHub Stats                                                                                                    | My Interests                                                                                                                                                                                                                                                                                                 |
 | ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Chaunice's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaunice&show_icons=true&theme=gotham&rank_icon=percentile&show_owner=true&hide_title=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | <ul><li>Applied Linguistics</li><li>Novel Tech & Gadgets</li><li>Data Visualization</li><li>Open Source Software</li></ul> |
+| [![Chaunice's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaunice&show_icons=true&theme=gotham&rank_icon=percentile&show_owner=true&hide_title=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | <ul><li>Applied Linguistics</li><li>Digital Humanities</li><li>Data Mining</li><li>Open Source Software</li></ul> |
 
 ---
 
